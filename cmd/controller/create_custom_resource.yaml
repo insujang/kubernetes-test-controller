@@ -1,0 +1,8 @@
+apiVersion: insujang.github.io/v1beta1
+kind: TestResource
+metadata:
+        name: example-tr
+spec:
+        command: "echo Hello World!"
+        customProperty: "asdasd1234"
+
